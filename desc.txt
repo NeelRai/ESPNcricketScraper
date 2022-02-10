@@ -1,2 +1,4 @@
 TeamFolders-> player's stats in excel
 ESPNcricketScraper
+
+open in terminal scorecard.js->node main.js->folders with excel file will be created
